@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@plasmicapp/loader-nextjs": "^1.0.406",
+    "@plasmicapp/react-web": "^0.2.353",
+    "@plasmicpkgs/plasmic-nav": "^0.0.177",
+    "@plasmicpkgs/react-awesome-reveal": "^3.8.209",
     "next": "14.2.16",
     "react": "^18",
     "react-dom": "^18"
